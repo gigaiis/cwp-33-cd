@@ -1,9 +1,9 @@
 {
     "db": {
         "development": {
-            "name": "cwp_33",
+            "name": "cwp33",
             "user": "root",
-            "pass": "root",
+            "pass": "11111",
             "options": {
                 "dialect": "mysql",
                 "host": "localhost",
